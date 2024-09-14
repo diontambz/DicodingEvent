@@ -11,9 +11,9 @@ Github User App adalah aplikasi Android yang menggunakan API GitHub untuk menamp
 - Dependency Injection menggunakan Dagger Hilt.
 
 ## Screenshots
-![Screenshot_1726342370](https://github.com/user-attachments/assets/4361dc7e-4b24-4f4d-a808-07854f2fb81b)
-![Screenshot_1726342376](https://github.com/user-attachments/assets/96366a60-2385-4dd3-98e7-93b00a8b8c04)
-![Screenshot_1726342335](https://github.com/user-attachments/assets/092bc214-d234-40db-a3c4-dd9fa2bfed14)
-![Screenshot_1726342348](https://github.com/user-attachments/assets/84cac0cf-758c-422a-9c80-1e405af06f13)
-![Screenshot_1726342353](https://github.com/user-attachments/assets/a8a66d80-ba36-42a8-8286-91caac12e429)
-![Screenshot_1726342359](https://github.com/user-attachments/assets/54c116b8-520e-479f-b68e-0fd6b261a0db)
+![Screenshot_1726342335](https://github.com/user-attachments/assets/efaea704-afd8-4cef-acb3-3838873b9d41)
+![Screenshot_1726342348](https://github.com/user-attachments/assets/19aeb001-4553-409f-8173-aaa6e3e905bf)
+![Screenshot_1726342353](https://github.com/user-attachments/assets/65dbe25b-e3c4-4930-bf29-417581fc34de)
+![Screenshot_1726342359](https://github.com/user-attachments/assets/b9d598c0-51bf-4b2c-9e97-1e05dfebb58c)
+![Screenshot_1726342370](https://github.com/user-attachments/assets/b52c7e9d-8777-4fa4-81e4-a0af0d8608e4)
+![Screenshot_1726342376](https://github.com/user-attachments/assets/b74d719a-34ed-4366-bb7e-febd72a0d889)
